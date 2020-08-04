@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Lordael","characterIndex":0,"characterName":"Lordael","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Lordael","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lordael","nickname":"","note":"","profile":"Sonhador"},
+{"id":2,"battlerName":"Aarath","characterIndex":0,"characterName":"Aarath","classId":2,"equips":[2,0,2,3,0],"faceIndex":3,"faceName":"Aarath","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aarath","nickname":"","note":"","profile":"Gosta de briga"},
+{"id":3,"battlerName":"Melih","characterIndex":0,"characterName":"Melih","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Melih","traits":[],"initialLevel":1,"maxLevel":99,"name":"Melih","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Sylkir","characterIndex":0,"characterName":"Sylkir","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Sylkir","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sylkir","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor3_1","characterIndex":0,"characterName":"Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor3","traits":[],"initialLevel":80,"maxLevel":99,"name":"Undergang","nickname":"","note":"","profile":""}
+]

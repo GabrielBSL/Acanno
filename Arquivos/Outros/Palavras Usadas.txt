@@ -1,0 +1,248 @@
+0 1 2 3 4 5 6 7 8 9
+
+A
+Acabado/Acabou
+Achar
+Aconteceu
+Aconteceria
+Agora
+Ajudo
+Algo
+Algum
+Amanha
+Amor
+Animado
+Ânimo
+Ano/Anos
+Apareceu
+Apenas
+Aqui
+Armas/arma
+Arquipélago
+Arrase
+Arrumar (Organizar) =/= Se Arrumar
+Assim
+Até/Inclusive
+Atrasar/Se Atrasar
+
+B
+Barulho
+Bem-vindo
+Bom/Boa
+Bomba
+Buraco
+
+C
+Caso (No caso de)
+Castelo
+Caverna
+Cerca/Cercado
+Chá
+Claro
+Coletar
+Com (Usando/Possuindo)
+Com (Na companhia de)
+Comandante
+Como (Assim como)
+Começando/Começar
+Conceda
+Consegui
+Consertar
+Continuasse/Continuar
+Cristais/Cristal
+Cuidará/Cuidar
+Cumprirei
+Cuteleiro
+
+D
+Defender
+Deixar
+Demonstrando/Demonstrar
+Dentro
+Detalhe
+Dia
+Diferente
+Dinheiro
+Diz/Dizem
+Dormi
+Dorminhoco
+
+E
+Ele
+Encarregado
+Encarregou
+Encontrarei/Encontrar/Encontrado
+Então
+Entendidos/Entendido/Entender
+Entrada (Fachada)
+Entrar
+Equipamento
+Equipar
+Escudo
+Espada
+Especial
+Espero
+Estaria/Está
+Este/Esse
+Eu
+
+F
+Falou
+Favorito
+Fechado
+Feliz
+Ferido
+Floresta
+Final/Fim
+Finalmente
+Fique/Ficar
+Fonte (Origem)
+
+G
+Ganhou/Ganhar
+Gastar
+Gastas/Desgastadas
+Gostaria/Gostar
+Grande
+Guerra
+Guerreiro
+
+H
+Hoje
+Hotel
+
+I
+Imaginar
+Imediatamente -> Agora
+Incandescente ~> De fogo
+Interssado
+Ir/Irei/Iria
+Irmão
+Isso
+
+J
+
+K
+
+L
+Lado
+Lanche
+Legal
+Lembro
+Lenha
+Lindo
+Loja
+Logo
+
+M
+Mãe
+Magia
+Mais
+Maravilhoso (Muito bom)
+Medo
+Melhor
+Mesmo
+Meu/Minha
+Missão
+Morra/Se mata
+Muito
+
+N
+Nada
+Não
+Não (Concorda?)
+Ninguém
+Nível (Piso)
+Noite
+Noroeste
+Nordeste
+Norte
+Nossa
+Nota (Anotação
+
+O
+Odeio
+Oeste
+Olá
+Ontem
+Ótimo -> Maravilhoso
+
+P
+Parece
+Passe/Passar (Aprovar)
+Passar (Conviver)
+Passar (Ultrapassar)
+Pequeno/Pequena
+Poções/Poção
+Pode
+Poder (Habilidade Mágica)
+Poderia (Conseguiria)
+Porém
+Precisarei/Precisarão/Precisar
+Preocupe
+Profundo
+
+Q
+Quer
+Querido
+Quero
+
+R
+Realmente
+Receber
+Retornem/Retorne -> Volte
+
+S
+Se Arrumar
+Sei/Sabem
+Sem (Com falta de)
+Senhor -> Você
+Senhor (Autoridade)
+Ser
+Será
+Seu/Sua
+Sim
+Sinto
+Só (Apenas)
+Só (Porém)
+Sozinho
+Suficiente
+Sul
+
+T
+Tão
+Tarde
+Tem
+Tenha
+Tenho
+Terão
+Teste/Prova
+Toco
+Todos
+Tomar
+Tome/Pegue
+Tornar
+Trabalho
+Treinamento
+
+U
+Uau
+Última/Último
+Uniforme
+
+V
+Vão/Vá
+Vem/Volte/Voltar
+Ver
+Vida
+Vila
+Você
+Vou -> Irei
+
+W
+
+X
+
+Y
+
+Z

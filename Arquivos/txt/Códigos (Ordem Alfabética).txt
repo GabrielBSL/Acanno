@@ -1,0 +1,179 @@
+\fs[150]\fn<>\fn<Texto>
+\fs[50]
+\c[16]
+
+¡ - Acabar
+¢ - Acontecer
+£ - Acordar
+¤ - Ainda
+¥ - Ajudar
+¦ - Alguns
+§ - Amaldiçoado - Maldição
+¨ - Amigável - Amigo
+© - Amor
+ª - Animado - Ânimo
+« - Animal (Singular)
+¬ - Ano
+­ - Anotar - Anotação - Recado - Bilhete
+® - Apenas - Só - Somente
+¯ - Aprender
+° - Aquele - Aquela - Aquilo
+± - Aqui
+² - Aranha
+³ - Arrumar
+ņ - Assassinar - Assassino
+Ň - Atrasar
+ň - Autorizar - Autorização
+´ - Barulho
+µ - Bom - Bem
+¶ - Bomba
+· - Caçar
+¸ - Casa
+¹ - Caverna
+º - Cercado
+» - Claro (Luminosidade)
+¼ - Cobra
+½ - Comandante
+¾ - Comum
+¿ - Conseguir
+À - Consertar
+Á - Continuar
+Â - Criança
+Ã - Cristal
+Ä - Cuidado
+Å - Cumprir
+Æ - Defender - Defesa
+È - Deixar	
+É - Dentro
+Ê - Desculpa	
+Ë - Dia
+Ì - Diarreia
+Í - Diferente
+Î - Dinheiro
+Ï - Dizer - Falar
+Ð - Dor - Doer - Dolorido
+Ñ - Dorminhoco
+Ò - Dormir
+Ó - Eletricidade
+Ô - Encontrar
+Õ - Ensinar
+Ö - Entender
+× - Entrar - Entrada
+Ø - Escorpião
+Ù - Escudo
+Ú - Espada
+Û - Especial
+Ü - Esposo - Esposa
+Ý - Esquecer
+Þ - Esse - Este - Essa - Esta - Isso - Isto
+ß - Eu
+à - Experiência
+á - Faíscâ
+â - Fechar - Fechado	
+ã - Feliz
+ä - Ferido
+å - Ficar (Local)
+æ - Fogo
+è - Fugir
+é - Futuro
+ê - Galinha
+ë - Ganhar
+ì - Grande
+í - Guerra - Guerreiro
+î - Habilidade - Poder
+ï - Hoje - Agora
+ð - Homem
+ñ - Hotel
+ò - Ideia
+ó - Imaginar
+ô - Incrível
+õ - Interessado
+ö - Ir - Vá
+÷ - Irmão - Irmã
+ø - Juntar - Junto
+ù - Lanche
+ú - Lembrar
+û - Leste
+ü - Lindo - Linda
+ý - Logo - Depressa - Acelerar
+þ - Loja
+ÿ - Lugar - Onde - Local - Localizar
+ā - Madeira
+Ā - Mágica - Magia
+Ă - Mais
+ă - Mandar
+Ą - Medo
+ą - Melhor (Comparação)
+Ć - Meu - Minha
+ć - Minotauro
+Ĉ - Missão
+ĉ - Morcego
+Ċ - Mostrar - Demonstrar
+ċ - Mulher
+Ď - Nada
+Č - Não ter
+č - Não
+ď - Ninguém
+Đ - Nojo - Nojento - Vomitar
+đ - Nordeste
+Ē - Noroeste
+ē - Norte
+Ĕ - Nosso - Nossa
+ĕ - Novo
+Ė - Ódio - Odiar
+ė - Oeste
+Ę - Ótimo
+ę - Pai - Mãe (Homem/Mulher + Sinal)
+Ě - Parar
+ě - Parecer (Previsão)
+Ĝ - Parede
+ĝ - Passar - Atravessar - Aprovado
+Ğ - Pegar
+ğ - Pensar
+Ġ - Pequeno
+ġ - Perigo
+Ģ - Planta
+ģ - Por quê - Porque
+Ĥ - Posso
+ĥ - Possuir - Possuido
+Ħ - Possuir (Ter)
+ħ - Precisar
+Ĩ - Preferido - Preferir
+ĩ - Preocupar
+Ī - Prova - Teste
+ī - Qual
+Ĭ - Querer (Esperar)
+ĭ - Rato
+Į - Saber
+į - Senhor (Autoridade)
+İ - Sentir
+ı - Seu
+Ĳ - Sim
+ĳ - Sozinho - Só
+Ĵ - Sudeste
+ĵ - Sudoeste
+Ķ - Sul
+ķ - Surgir - Aparecer
+ĸ - Tocar
+Ĺ - Todos
+ĺ - Tornar
+Ļ - Trabalhar - Trabalho
+ļ - Treinar - Treinamento
+Ľ - Tudo
+ľ - Último
+Ŀ - Uniforme
+ŀ - Velho
+Ł - Veneno - Envenenar - Envenenado
+ł - Vir
+Ń - Ver
+ń - Você
+Ņ - Voltar - Retornar
+	
+ŉ	Ŋ	ŋ	Ō	ō	Ŏ	ŏ
+Ő	ő	Œ	œ	Ŕ	ŕ	Ŗ	ŗ	Ř	ř	Ś	ś	Ŝ	ŝ	Ş	ş
+Š	š	Ţ	ţ	Ť	ť	Ŧ	ŧ	Ũ	ũ	Ū	ū	Ŭ	ŭ	Ů	ů
+Ű	ű	Ų	ų	Ŵ	ŵ	Ŷ	ŷ	Ÿ	Ź	ź	Ż	ż	Ž	ž	ſ
+ƀ	Ɓ	Ƃ	ƃ	Ƅ	ƅ	Ɔ	Ƈ	ƈ	Ɖ	Ɗ	Ƌ	ƌ	ƍ	Ǝ	Ə
+Ɛ	Ƒ	ƒ	Ɠ	Ɣ	ƕ	Ɩ	Ɨ	Ƙ	ƙ	ƚ	ƛ	Ɯ	Ɲ	ƞ	Ɵ
+Ơ	ơ	Ƣ	ƣ	Ƥ	ƥ	Ʀ	Ƨ	ƨ	Ʃ	ƪ	ƫ	Ƭ	ƭ	Ʈ	Ư
+ư	Ʊ	Ʋ	Ƴ	ƴ	Ƶ	ƶ	Ʒ	Ƹ	ƹ	ƺ	ƻ	

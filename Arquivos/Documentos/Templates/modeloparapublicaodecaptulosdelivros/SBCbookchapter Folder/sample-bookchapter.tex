@@ -1,0 +1,194 @@
+%
+% Sample SBC book chapter
+%
+% This is a public-domain file.
+%
+% Charset: ISO8859-1 (latin-1) áéíóúç
+%
+\documentclass{SBCbookchapter}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazilian,english]{babel}
+\usepackage{graphicx}
+
+\author{Luciana Porcher Nedel, Flávio Rech Wagner and Richard Leithold}
+\title{Instructions for Authors of SBC Book Chapters}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+This meta-paper describes the style to be used in articles and short
+papers for SBC conferences. For papers in English, you should add just
+an abstract and for the papers in Portuguese, we also ask for an
+abstract in Portuguese (``resumo''). In both cases, abstracts should not
+have more than 10~lines and must be in the first page of the paper.
+\end{abstract}
+
+\begin{resumo}
+\begin{otherlanguage}{brazilian}
+Este meta-artigo descreve o estilo a ser usado na confecção de artigos
+e resumos de artigos para publicação nos anais das conferências
+organizadas pela SBC. É solicitada a escrita de resumo e abstract apenas
+para os artigos escritos em português. Artigos em inglês, deverão
+possuir apenas abstract. Nos dois casos, o autor deve tomar cuidado para
+que o resumo (e o abstract) não ultrapassem 10~linhas cada, sendo que
+ambos devem estar na primeira página do artigo.
+\end{otherlanguage}
+\end{resumo}
+
+\section{General Information}
+All submitted paper to some SBC conference, including any supporting
+documents, should be written in English or in Portuguese. The format
+paper should be A4 with single column, 3.5~cm for upper margin, 2.5~cm
+for bottom margin and 3.0~cm for lateral margins, without headers or
+footers. The main font must be Times, 12~point nominal size, with
+6~points of space before each paragraph. Page numbers must be
+suppressed in the final version.
+
+Full papers must respect the page limits defined by the conference.
+Conferences that publish just abstracts ask for \textbf{one}-page
+texts.
+
+\section{First Page}
+The first page must display the paper title, the name and address of
+the authors, the abstract in English and ``resumo'' in Portuguese (for
+papers written in Portuguese). The title must be justified at the
+left, in 20~point boldface font. Author names must be justified in the
+same way, as shown in this example.
+
+\section{CD-ROMs and Printed Proceedings}
+In some conferences, the papers are published on CD-ROM while only the
+abstract is published in the Proceedings. In this case, authors are
+invited to prepare two final versions of the paper. One, complete, to
+be published on the CD and the other, containing only the first page,
+with abstract and ``resumo'' (for papers in Portuguese).
+
+\section{Sections and Paragraphs}
+Section titles must be in boldface, 13pt, flush left. There should be
+an extra 12~pt of space before each title. The first paragraph of each
+section should not be indented; the first lines of subsequent
+paragraphs should be indented by 1.27~cm.
+
+\subsection{Subsections}
+The subsection titles must be in boldface, 12pt, flush left.
+
+\section{Figures and Captions}
+\label{sec:captionmargins}
+Figures and tables captions should be centered if less than one line
+(Figure~\ref{figone}), otherwise justified and indented by 0.8cm on
+both margins, as shown in Figure~\ref{figtwo}. The font must be
+Helvetica, 10~point, boldface, with 6~points of space before and after
+each caption.
+
+\begin{figure}[h!]
+	\centerline{\includegraphics{fig1}}
+	\caption{A typical figure}
+	\label{figone}
+\end{figure}
+
+In tables, do not use colored or shaded backgrounds, and avoid thick,
+doubled, or unnecessary framing lines. When reporting empirical data,
+do not use more decimal digits than warranted by their precision and
+reproducibility. Table caption must be placed before the table (see
+Table~\ref{tabone}) and the font used must also be Helvetica,
+10~point, boldface, with 6~points of space before and after each
+caption.
+
+Figure and table references must be composed by the chapter number and
+a sequence number beginning in one (see the examples of
+Figure~\ref{figone}, Figure~\ref{figtwo} and Table~\ref{tabone}).
+
+\begin{figure}[h!]
+	\centerline{\includegraphics{fig2}}
+	\caption{This figure is an example of a figure caption taking
+		more than one line and justified considering margins
+		mentioned in Section~\ref{sec:captionmargins}}
+	\label{figtwo}
+\end{figure}
+
+\section{Images}
+All images and illustrations should be in black-and-white, or gray
+tones. The image resolution on paper should be about 600~dpi for
+black-and-white images, and 150-200~dpi for grayscale images.  Do not
+include images with excessive resolution, as they may take hours to
+print, without any visible difference in the result.
+
+\begin{table}[h!]
+	\caption{Variables to be considered on the evaluation of
+		interaction techniques.}
+	\label{tabone}
+	\begin{footnotesize}
+	\begin{tabular}{|p{40mm}|p{55mm}|p{42mm}|}
+	\hline
+	\hspace*{\fill}\textbf{Tarefa}\hspace*{\fill} &
+	\hspace*{\fill}\textbf{Variável}\hspace*{\fill} & 
+	\hspace*{\fill}\textbf{Métrica utilizada}\hspace*{\fill}\\
+	\hline
+	Seleção &
+	Distância do alvo &
+	Virtual cubits \\ \cline{2-3}
+	& Direção horizontal e vertical do alvo &
+	Graus do arco \\ \cline{2-3}
+	& Distância do objeto oculto &
+	Virtual cubits \\ \cline{2-3}
+	& Direção da oclusão &
+	Esquerda/direita/cima/baixo \\
+	\hline
+	Posicionamento &
+	Distância inicial &
+	Virtual cubits \\ \cline{2-3}
+	& Direções iniciais horizontal e vertical &
+	Graus do arco \\ \cline{2-3}
+	& Distância final &
+	Virtual cubits \\ \cline{2-3}
+	& Direções finais horizontal e vertical &
+	Graus do arco \\ \cline{2-3}
+	& Precisão vertical &
+	Porcentagem de sobreposição \\ \cline{2-3}
+	& Precisão horizontal &
+	Porcentagem de sobreposição \\
+	\hline
+	Orientação &
+	Distância &
+	Virtual cubits \\ \cline{2-3}
+	& Direções horizontal e vertical &
+	Graus do arco \\ \cline{2-3}
+	& Orientação inicial (3 angulos) &
+	Graus do arco \\ \cline{2-3}
+	& Orientação final (3 angulos) &
+	Graus do arco \\ \cline{2-3}
+	& Exatidão/precisão &
+	Graus do arco \\
+	\hline
+	\end{tabular}
+	\end{footnotesize}
+\end{table}
+
+\section{References}
+Bibliographic references must be unambiguous and uniform.  We
+recommend giving the author names references in brackets,
+e.g.~[Knuth~1984], [Kernighan and Ritchie~1990]; or dates in
+parentheses, e.g.~Knuth (1984), Sederberg and Zundel (1989,1990).
+
+% you should really use BibTeX instead of this... :-)
+\begin{thebibliography}{99}
+\bibitem{bou91} Boulic, R. and Renault, O. (1991) ``3D Hierarchies for
+  Animation'', In: New Trends in Animation and Visualization, Edited
+  by Nadia Magnenat-Thalmann and Daniel Thalmann, John Wiley \& Sons
+  ltd., England.
+
+\bibitem{dye95} Dyer, S., Martin, J. and Zulauf, J. (1995) ``Motion
+  Capture White Paper'',
+  http://reality.sgi.com/employees/jam\_sb/mocap/MoCapWP\_v2.0.html,
+  December.
+
+\bibitem{hol95} Holton, M. and Alexander, S. (1995) ``Soft Cellular
+  Modeling: A Technique for the Simulation of Non-rigid Materials'',
+  Computer Graphics: Developments in Virtual Environments, R. A.
+  Earnshaw and J. A. Vince, England, Academic Press Ltd., p.~449-460.
+
+\bibitem{knu84} Knuth, D. E., The TeXbook, Addison Wesley, 1984.
+\end{thebibliography}
+
+\end{document}

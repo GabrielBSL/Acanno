@@ -1,0 +1,201 @@
+¡ - Acabar
+¢ - Acontecer
+£ - Acordar
+¤ - Ainda
+¥ - Ajudar
+¦ - Alguns
+§ - Amaldiçoado - Maldição
+¨ - Amigável
+© - Amor
+ª - Animado
+« - Animal (Singular)
+¬ - Ano
+­ - Anotar - Anotação - Recado - Bilhete
+® - Apenas - Só - Somente
+¯ - Aprender
+° - Aquele - Aquela - Aquilo
+± - Aqui
+² - Aranha
+³ - Arrumar	
+´ - Barulho
+µ - Bom - Bem
+¶ - Bomba
+· - Caçar
+¸ - Casa
+¹ - Caverna
+º - Cercado
+» - Claro (Luminosidade)
+¼ - Cobra
+½ - Comandante
+¾ - Comum
+¿ - Conseguir
+À - Consertar
+Á - Continuar
+Â - Criança
+Ã - Cristal
+Ä - Cuidado
+Å - Cumprir
+Æ - Defender
+È - Deixar	
+É - Dentro
+Ê - Desculpa	
+Ë - Dia
+Ì - Diarreia
+Í - Diferente
+Î - Dinheiro
+Ï - Dizer - Falar
+Ð - Dor - Doer - Dolorido
+Ñ - Preguiçoso
+Ò - Dormir
+Ó - Eletricidade
+Ô - Encontrar
+Õ - Ensinar
+Ö - Entender
+× - Entrar
+Ø - Escorpião	
+Ù - Escudo
+Ú - Espada
+Û - Especial
+Ü - Esposo - Esposa
+Ý - Esquecer
+Þ - Esse - Este - Essa - Esta - Isso - Isto
+ß - Eu
+à - Experiência
+á - Faíscâ
+â - Fechar - Fechado	
+ã - Feliz
+ä - Ferido
+å - Ficar (Local)
+æ - Fogo
+è - Fugir
+é - Futuro
+ê - Galinha
+ë - Ganhar
+ì - Grande
+í - Guerra
+î - Habilidade
+ï - Hoje - Agora
+ð - Homem
+ñ - Hotel
+ò - Ideia
+ó - Imaginar
+ô - Incrível
+õ - Interessado
+ö - Ir - Vá
+÷ - Irmão - Irmã
+ø - Juntar - Junto
+ù - Lanche
+ú - Lembrar
+û - Leste
+ü - Lindo - Linda
+ý - Logo - Depressa - Acelerar
+þ - Loja
+ÿ - Lugar - Onde - Local - Localizar
+Ā - Mágica	
+ā - Madeira	
+Ă - Mais
+ă - Mandar
+Ą - Medo
+ą - Melhor (Comparação)
+Ć - Meu
+ć - Minotauro
+Ĉ - Missão
+ĉ - Morcego
+Ċ - Mostrar
+ċ - Mulher	
+Č - Não ter
+č - Não	
+Ď - Nada	
+ď - Ninguém
+Đ - Nojo - Nojento - Vomitar
+đ - Nordeste
+Ē - Noroeste
+ē - Norte
+Ĕ - Nosso
+ĕ - Novo
+Ė - Ódio
+ė - Oeste
+Ę - Ótimo
+ę - Pai - Mãe
+Ě - Parar
+ě - Parecer (Previsão)
+Ĝ - Parede
+ĝ - Passar - Atravessar - Aprovado
+Ğ - Pegar
+ğ - Pensar
+Ġ - Pequeno
+ġ - Perigo
+Ģ - Planta
+ģ - Por quê - Porque
+Ĥ - Posso
+ĥ - Possuir - Possuido
+Ħ - Possuir (Ter)
+ħ - Precisar
+Ĩ - Preferido - Preferir
+ĩ - Preocupar
+Ī - Prova - Teste
+ī - Qual
+Ĭ - Querer
+ĭ - Rato
+Į - Saber
+į - Senhor (Autoridade)
+İ - Sentir
+ı - Seu
+Ĳ - Sim
+ĳ - Sozinho - Só
+Ĵ - Sudeste
+ĵ - Sudoeste
+Ķ - Sul
+ķ - Surgir - Aparecer
+ĸ - Tocar
+Ĺ - Todos
+ĺ - Tornar
+Ļ - Trabalhar - Trabalho
+ļ - Treinar
+Ľ - Tudo
+ľ - Último
+Ŀ - Uniforme
+ŀ - Velho
+Ł - Veneno - Envenenar - Envenenado
+ł - Vir - Venha
+Ń - Ver
+ń - Você
+Ņ - Voltar
+ņ - Assassinar - Assassino
+Ň - Atrasar
+ň - Autorizar - Autorização - Permitir - Permissão
+
+ŉ - Sorte	
+Ŋ - Não querer
+ŋ - Quase
+Ō - Ah (Lembrar-se de algo)	
+ō - OK
+Ŏ - Proteger-me - Cuidar de mim	
+ŏ - Risada
+Ő - Roupa
+ő - Ansioso(a)
+Œ - Soldado(a)	
+œ - Finalmente - Ufa!
+Ŕ - Lordael	
+ŕ - Esperança - Tomara
+
+Ŗ
+ŗ 
+Ř
+ř	
+Ś	
+ś	
+Ŝ	
+ŝ	
+Ş	
+ş
+Š	š	Ţ	ţ	Ť	ť	Ŧ	ŧ	Ũ	ũ	Ū	ū	Ŭ	ŭ	Ů	ů
+Ű	ű	Ų	ų	Ŵ	ŵ	Ŷ	ŷ	Ÿ	Ź	ź	Ż	ż	Ž	ž	ſ
+ƀ	Ɓ	Ƃ	ƃ	Ƅ	ƅ	Ɔ	Ƈ	ƈ	Ɖ	Ɗ	Ƌ	ƌ	ƍ	Ǝ	Ə
+Ɛ	Ƒ	ƒ	Ɠ	Ɣ	ƕ	Ɩ	Ɨ	Ƙ	ƙ	ƚ	ƛ	Ɯ	Ɲ	ƞ	Ɵ
+Ơ	ơ	Ƣ	ƣ	Ƥ	ƥ	Ʀ	Ƨ	ƨ	Ʃ	ƪ	ƫ	Ƭ	ƭ	Ʈ	Ư
+ư	Ʊ	Ʋ	Ƴ	ƴ	Ƶ	ƶ	Ʒ	Ƹ	ƹ	ƺ	ƻ	Ƽ	ƽ	ƾ	ƿ
+ǀ	ǁ	ǂ	ǃ	Ǆ	ǅ	ǆ	Ǉ	ǈ	ǉ	Ǌ	ǋ	ǌ	Ǎ	ǎ	Ǐ
+ǐ	Ǒ	ǒ	Ǔ	ǔ	Ǖ	ǖ	Ǘ	ǘ	Ǚ	ǚ	Ǜ	ǜ	ǝ	Ǟ	ǟ
+Ǡ	ǡ	Ǣ	ǣ	Ǥ	ǥ	Ǧ	ǧ	Ǩ	ǩ	Ǫ	ǫ	Ǭ	ǭ	Ǯ	ǯ
+ǰ	Ǳ	ǲ	ǳ	Ǵ	ǵ	Ƕ	Ƿ	Ǹ	ǹ	Ǻ	ǻ	Ǽ	ǽ	Ǿ	ǿ
