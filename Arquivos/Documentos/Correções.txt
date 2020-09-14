@@ -1,0 +1,34 @@
+Correção 4: Colocar referências dos jogos já citados e buscar outros (se tiver).
+
+Correção 6: Explicar (de preferência com uma tabela), as diferenças entre o jogo Acanno e o jogos citados.
+
+
+//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--
+
+Comentário: Revisão de português do artigo (3ª pessoa pretérito perfeito).
+ 	    verificar documento de como escrever artigo.
+
+
+- O texto apresenta resquícios de ter sido adaptado de uma proposta de pesquisa, 
+pois apresenta alguns verbos conjugados no futuro: irão, seguirá, definirá, repetirão.
+
+- Verificar o uso correto de pontuação, para conferir maior clareza ao texto. Está muito 
+difícil de ler, pois a todo momento somos obrigados a reler várias vezes a mesma passagem 
+para tentar adivinhar a pontuação correta e daí tentar extrair o sentido pretendido.
+
+- Não emendar frases distintas com vírgulas. Um texto sem clareza exige esforço do leitor 
+para decodificar a mensagem do autor. Uma falta de rigor na escrita denota desleixo do autor, 
+o que provavelmente deve refletir um desleixo na pesquisa conduzida.
+
+- Não elaborar frases longas (mais do que 4 linhas), nem parágrafos de uma frases só.
+
+- Falta concordância em vários trechos: a falta de infraestrutura ... prejudica ... e causam; 
+foi criado uma base; criado os mapas, etc.
+
+
+Pontos fracos:
+- Faltam referências aos jogos Vega e Alfabeto Kids, citados como trabalhos anteriores. Existem 
+outras iniciativas, além dessas duas? Além do comentário sobre jogos desenvolvidos em trabalhos anteriores, é importante apresentar as características desses jogos que serão usadas como critério de comparação com o Acanno.
+
+- Quando se diz que "O jogo Acanno se diferencia dos outros", falta quantificar ou pelo menos 
+especificar melhor tais diferenças.
