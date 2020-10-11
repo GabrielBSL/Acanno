@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Arquipélago de Magga","order":1,"parentId":0,"scrollX":1457.4545454545455,"scrollY":1913.4545454545455},
-{"id":2,"expanded":false,"name":"Vila Sette","order":2,"parentId":1,"scrollX":1385,"scrollY":747},
+{"id":2,"expanded":false,"name":"Vila Sette","order":2,"parentId":1,"scrollX":1377,"scrollY":747},
 {"id":3,"expanded":false,"name":"Floresta de Magga","order":14,"parentId":1,"scrollX":1626,"scrollY":930},
 {"id":4,"expanded":false,"name":"Vila Sette - Loja de Armas","order":4,"parentId":2,"scrollX":1300.8,"scrollY":744},
 {"id":5,"expanded":true,"name":"Vila Sette - Casa Abandonada","order":5,"parentId":2,"scrollX":1300.8,"scrollY":744},
